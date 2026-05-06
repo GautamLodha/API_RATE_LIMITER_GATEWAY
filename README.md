@@ -1,3 +1,4 @@
+![Token Bucket Flow](image.png)
 # Distributed API Rate Limiter (Token Bucket)
 
 A high-performance, stateless API Gateway middleware built with **Node.js** and **Redis**. This project implements a dual-layer rate-limiting strategy designed to protect backend services from traffic spikes, DDoS attempts, and resource exhaustion.
